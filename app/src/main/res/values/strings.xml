@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App Kata-Kata</string>
+    <string name="app_first_run">app first run</string>
+    <string name="loading">Loading</string>
+    <string name="title_activity_kata">KataActivity</string>
+    <string name="title_activity_detail">DetailActivity</string>
+</resources>
